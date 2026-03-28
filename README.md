@@ -1,28 +1,45 @@
 <h1 align="center">Hi 👋, I'm Lavanesh</h1>
-<h3 align="center">AI Developer | Building real-world intelligent systems</h3>
+<h3 align="center">AI & Full-Stack Developer building real-world intelligent systems</h3>
 
 ---
 
-## 👨‍💻 About Me
-I’m an AI-focused developer building real-world applications using modern web and AI technologies.
+## 👨‍💻 Who I Am
+I’m a developer who enjoys building practical, real-world software systems. I work across AI, backend, and frontend development, and I focus on turning ideas into scalable applications that solve real problems.
 
 ---
 
-## 🔭 Current Work
-- AI-powered portfolio generator  
-- Building RAG-based AI systems  
+## 🔭 What I’m Working On
+- Building a Generative AI-powered Job Recommender System using MCP (Model Context Protocol)  
+- Designing intelligent recommendation systems using LLMs and context-aware retrieval  
+- Developing full-stack MERN applications  
+- Building backend services using FastAPI  
+- Working on cloud deployment with AWS and Kubernetes  
+- Exploring scalable system design and DevOps practices  
 
 ---
 
-## 🛠️ Tech Stack
-- **AI/ML:** RAG systems, Computer Vision  
-- **Frontend:** React, HTML, CSS, Tailwind  
-- **Backend:** Node.js, Express, MongoDB  
-- **DevOps:** Docker, Kubernetes, AWS  
-- **Languages:** Python, JavaScript  
+## 🛠️ Tools & Technologies I Use
+
+**🤖 AI **  
+Generative AI, RAG systems, LLM applications, NLP, Computer Vision  
+
+**🌐 Frontend**  
+React.js, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS ,BootStrap 
+
+**⚙️ Backend**  
+Node.js, Express.js, Flask, FastAPI  
+
+**🗄️ Databases**  
+MongoDB, MySQL, PostgreSQL ,Oracle 
+
+**☁️ Cloud & DevOps**  
+AWS (EC2, S3, Lambda, RDS, VPC), Docker, Kubernetes, Jenkins, CI/CD, Terraform  
+
+**🧰 Tools**  
+Git, GitHub, Postman, Linux  
 
 ---
 
-## 📫 Contact Me
-- Email: lavanesh532@gmail.com 
+## 📫 How to Reach Me
+- Email: lavanesh532@gmail.com  
 - GitHub: https://github.com/lavanesh-tech  
