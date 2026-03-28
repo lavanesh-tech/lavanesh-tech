@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Lavanesh</h1>
+<h3 align="center">AI Developer | Building real-world intelligent systems</h3>
 
-<!--
-**lavanesh-tech/lavanesh-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+I’m an AI-focused developer building real-world applications using modern web and AI technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 Current Work
+- AI-powered portfolio generator  
+- Building RAG-based AI systems  
+
+---
+
+## 🛠️ Tech Stack
+- **AI/ML:** RAG systems, Computer Vision  
+- **Frontend:** React, HTML, CSS, Tailwind  
+- **Backend:** Node.js, Express, MongoDB  
+- **DevOps:** Docker, Kubernetes, AWS  
+- **Languages:** Python, JavaScript  
+
+---
+
+## 📫 Contact Me
+- Email: your-email@example.com  
+- GitHub: https://github.com/lavanesh-tech  
