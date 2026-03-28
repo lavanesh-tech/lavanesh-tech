@@ -24,5 +24,5 @@ I’m an AI-focused developer building real-world applications using modern web 
 ---
 
 ## 📫 Contact Me
-- Email: your-email@example.com  
+- Email: lavanesh532@gmail.com 
 - GitHub: https://github.com/lavanesh-tech  
