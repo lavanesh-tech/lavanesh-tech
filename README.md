@@ -42,4 +42,4 @@ Git, GitHub, Postman, Linux
 
 ## 📫 How to Reach Me
 - Email: lavanesh532@gmail.com  
-- GitHub: www.linkedin.com/in/lavanesh
+- LinkedIn: www.linkedin.com/in/lavanesh
